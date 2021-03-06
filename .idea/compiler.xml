@@ -13,10 +13,10 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Bungee" target="1.8" />
-      <module name="JoinMusic" target="1.8" />
-      <module name="JoinMusic-Bungee" target="1.8" />
-      <module name="JoinMusic-Master" target="1.8" />
-      <module name="JoinMusic-Spigot" target="1.8" />
+      <module name="JoinMusic" target="11" />
+      <module name="JoinMusic-Bungee" target="11" />
+      <module name="JoinMusic-Master" target="11" />
+      <module name="JoinMusic-Spigot" target="11" />
       <module name="Master" target="1.8" />
       <module name="Spigot" target="1.8" />
     </bytecodeTargetLevel>
